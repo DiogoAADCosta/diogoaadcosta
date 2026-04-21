@@ -1,13 +1,13 @@
-# Hi there, I'm Diogo! 👋
+# Hi there, I'm Diogo! 
 
 Mechanical Engineer & Musician transitioning to **Software Engineering**. I leverage my background in complex logical systems and music theory to build robust, structured Back-End solutions.
 
 ---
 
-## 🚀 Current Focus: Learning in Public
+## Current Focus: Learning in Public
 I'm a self-taught developer documenting every step of my evolution. I believe in building a strong foundation before scaling.
 
-### 🛠️ Featured Project: Guitar Diagnostic System
+### Featured Project: Guitar Diagnostic System
 A specialized diagnostic engine for guitarists that maps technical gaps using adaptive logic. This project represents my transition from procedural coding to **Software Architecture**.
 
 * **Evolutionary Documentation:** I have documented the journey from **v1 to v11**, showing how the system evolved.
@@ -18,7 +18,7 @@ A specialized diagnostic engine for guitarists that maps technical gaps using ad
 
 ---
 
-## 🎓 Background & Expertise
+## Background & Expertise
 - **Mechanical Engineering:** Provides the structural logic and problem-solving framework.
 - **Bachelor of Music:** Domain expertise for my current specialized projects.
 - **Asimov Academy:** Deepening Python, OOP, and Automation.
@@ -31,6 +31,6 @@ A specialized diagnostic engine for guitarists that maps technical gaps using ad
 
 ---
 
-## 📫 Connect with me:
+## Connect with me:
 - **LinkedIn:** www.linkedin.com/in/diogoaadcosta/
 - *"Focusing on Data Structures, Algorithms (Big-O), and building reliable systems."*
