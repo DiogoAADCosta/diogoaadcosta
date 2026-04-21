@@ -32,5 +32,5 @@ A specialized diagnostic engine for guitarists that maps technical gaps using ad
 ---
 
 ## 📫 Connect with me:
-- **LinkedIn:** [TEU_LINK_DO_LINKEDIN]
+- **LinkedIn:** www.linkedin.com/in/diogoaadcosta/
 - *"Focusing on Data Structures, Algorithms (Big-O), and building reliable systems."*
