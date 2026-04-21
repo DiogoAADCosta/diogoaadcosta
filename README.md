@@ -14,7 +14,7 @@ A specialized diagnostic engine for guitarists that maps technical gaps using ad
 * **Engineering Mindset:** Applying *Separation of Concerns* and *Fallback Logic* to a real-world musical problem.
 * **Technical Stack:** Python-focused, moving towards APIs (FastAPI) and SQL.
 
-👉 [Check out the project evolution here!](COLOCA_AQUI_O_LINK_DO_TEU_OUTRO_REPOSITORIO)
+👉 [Check out the project evolution here!](https://github.com/DiogoAADCosta/guitar-diagnostic-system)
 
 ---
 
